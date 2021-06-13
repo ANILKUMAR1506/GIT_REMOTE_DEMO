@@ -5,3 +5,4 @@ version 2.0
 version 3.0
 version 4.0
 VERSION 5.0
+version 6.0
