@@ -2,3 +2,4 @@
 GIT_REMOTE_DEMO
 DEMO VERSION
 version 2.0
+version 3.0
